@@ -5,7 +5,7 @@ public class CompareExample {
 		
 		boolean result = false;
 		
-		result =  10> 2
+		result =  10 > 2;
 		System.out.println(!result);
 		
 				
